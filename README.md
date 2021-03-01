@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nzkdevsaider&theme=merko&count_private=true&show_icons=true&hide_title=true&hide=stars" /><i>«Linked to the new horizon»</i><br><br>"No quedará en la noche una estrella.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=nzkdevsaider&theme=merko&count_private=true&show_icons=true&hide_title=true&hide=stars" />"No quedará en la noche una estrella.
 No quedará la noche.
 Moriré y conmigo la suma
 del intolerable universo.
