@@ -1,13 +1,16 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Devsaider&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Frontend%20and%20Backend%20Developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Devsaider&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full-stack%20Developer&descAlignY=51&descAlign=62)
 
-🌱 I’m currently learning **tensorflow, rust & python**
+<img width="200" height="200" align="left" src="https://raw.githubusercontent.com/nzkdevsaider/nzkdevsaider.github.io/main/public/iconm.png">
 
-👨‍💻 All of my projects are available at [https://sebasmorant.dev](https://sebasmorant.dev)
+# Sebastián Morales
+<i>(aka Devsaider)</i><br>
+<i>💻 Jr. Full-stack Developer</i><br>
+<i>🤖 A.I. & Cybersecurity enthusiast</i><br>
+<i>🌱 Currently learning `python & tensorflow`</i><br>
 
-📝 I regularly write articles on [https://sebasmorant.dev/blog](https://sebasmorant.dev/blog) (spanish)
-
-💬 Ask me about **react, next.js, nodejs and deno**
-
+<br><br><br>
+  <img align="right" src="https://komarev.com/ghpvc/?username=nzkdevsaider"/>
+  
 ## Social
 
 <p align="left">
