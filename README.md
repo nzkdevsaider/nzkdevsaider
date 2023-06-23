@@ -6,7 +6,7 @@
 <i>(aka Devsaider)</i><br>
 <i>💻 Jr. Full-stack Developer</i><br>
 <i>🤖 A.I. & Cybersecurity enthusiast</i><br>
-<i>🌱 Currently learning `python & tensorflow`</i><br>
+<i>🌱 Currently learning `angular` and `typescript`</i><br>
 
 <br><br><br>
   <img align="right" src="https://komarev.com/ghpvc/?username=nzkdevsaider"/>
