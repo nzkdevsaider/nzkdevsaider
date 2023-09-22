@@ -6,17 +6,14 @@
 <i>(aka Devsaider)</i><br>
 <i>💻 Jr. Full-stack Developer</i><br>
 <i>🤖 A.I. & Cybersecurity enthusiast</i><br>
-<i>🌱 Currently learning ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) </i><br>
+<i>🌱 Currently learning ![](https://api.iconify.design/skill-icons/python-dark.svg?color=white) **Python** </i><br>
+<p>
+<a href="https://linkedin.com/in/sebasmorant" target="blank"><img align="center" width="90px" src="https://api.iconify.design/prime/linkedin.svg?color=white" alt="sebasmorant" height="30" width="40" /></a>
+<a href="https://instagram.com/sebasmorant" target="blank"><img align="center" width="90px" src="https://api.iconify.design/prime/instagram.svg?color=white" alt="sebasmorant" height="30" width="40" /></a>
+</p>
 
 <br><br><br>
   <img align="right" src="https://komarev.com/ghpvc/?username=nzkdevsaider"/>
-  
-## Social Networks
-
-<p>
-<a href="https://linkedin.com/in/sebasmorant" target="blank"><img align="center" src="https://api.iconify.design/prime/instagram.svg?color=white" alt="sebasmorant" height="30" width="40" /></a>
-<a href="https://instagram.com/sebasmorant" target="blank"><img align="center" src="https://api.iconify.design/prime/instagram.svg?color=white" alt="sebasmorant" height="30" width="40" /></a>
-</p>
 
 ## Stack
 <p>
