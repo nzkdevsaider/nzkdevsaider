@@ -4,7 +4,7 @@
 
 # Sebastián Morales
 <i>(aka Devsaider)</i><br>
-<i>💻 Jr. Full-stack Developer</i><br>
+<i>💻 Full-stack Developer</i><br>
 <i>🤖 A.I. & Cybersecurity enthusiast</i><br>
 <i>🌱 Currently learning ![](https://api.iconify.design/skill-icons/python-dark.svg?color=white) **Python** </i><br>
 <p>
