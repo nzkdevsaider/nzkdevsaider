@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Devsaider&fontSize=60&animation=fadeIn&fontAlignY=38&desc=fullstack%20developer&descAlignY=51&descAlign=62)
 
-<a href="https://sebasmorant.dev" target="blank"><img width="200" height="200" align="left" src="https://raw.githubusercontent.com/nzkdevsaider/nzkdevsaider.github.io/main/public/iconm.png"></a>
+<a href="https://sebasmorant.dev" target="blank"><img width="200" height="200" align="left" src="https://github.com/nzkdevsaider/nzkdevsaider.github.io/raw/main/assets/iconm.png"></a>
 
 # Sebastián Morales
 <i>(aka Devsaider)</i><br>
