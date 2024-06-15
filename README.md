@@ -3,8 +3,6 @@
 <a href="https://saider.dev" target="blank"><img width="200" height="200" align="left" src="https://github.com/nzkdevsaider/nzkdevsaider.github.io/raw/main/assets/iconm.png"></a>
 
 # Sebastián Morales
-<i>💻 Full-stack Developer</i><br>
-<i>🤖 A.I. & Cybersecurity enthusiast</i><br>
 <i>🌱 Currently learning ![](https://api.iconify.design/skill-icons/python-dark.svg?color=white) **Python** </i><br>
 <p>
 <a href="https://linkedin.com/in/sebasmorant" target="blank"><img align="center" width="90px" src="https://api.iconify.design/prime/linkedin.svg?color=white" alt="sebasmorant" height="30" width="40" /></a>
