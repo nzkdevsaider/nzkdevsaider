@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 */3 * * *"}]
+  schedule: [{cron: "0 6 */3 * *"}]
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -24,14 +24,10 @@ jobs:
           # Options
           user: nzkdevsaider
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, metadata
           config_timezone: America/Panama
-          plugin_gists: yes
-          plugin_habits: no
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: no
-          plugin_habits_from: 200
+          plugin_leetcode: yes
+          plugin_leetcode_user: nzkdevsaider
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_traffic: yes
