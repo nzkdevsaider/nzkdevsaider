@@ -13,5 +13,4 @@
 [![S](https://skillicons.dev/icons?i=js,html,css,express,mongodb,mysql,postgres,py,react,tailwind,latex,docker,nextjs,nodejs,flutter,firebase,supabase,deno,figma,vercel)](https://skillicons.dev)
 <br><br><br>
 
-## Stats
 <img src="https://raw.githubusercontent.com/nzkdevsaider/nzkdevsaider/refs/heads/main/github-metrics.svg"/>
