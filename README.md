@@ -7,7 +7,7 @@
 <a href="https://instagram.com/sebasmorant" target="blank"><img align="center" width="90px" src="https://api.iconify.design/prime/instagram.svg?color=white" alt="sebasmorant" height="30" width="40" /></a>
 </p>
 
-[![committers.top badge](https://user-badge.committers.top/panama_private/USERNAME.svg)](https://user-badge.committers.top/panama_private/nzkdevsaider)
+[![committers.top badge](https://user-badge.committers.top/panama_private/nzkdevsaider.svg)](https://user-badge.committers.top/panama_private/nzkdevsaider)
 
 <br><br><br>
 
