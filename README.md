@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=sebasmorant&fontSize=60&animation=fadeIn&fontAlignY=38&desc=fullstack%20developer&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Sebasti%C3%A1n%20M.&fontSize=60&animation=fadeIn&fontAlignY=38&desc=fullstack%20developer&descAlignY=51&descAlign=62)
 
 [![committers.top badge](https://user-badge.committers.top/panama_private/nzkdevsaider.svg)](https://user-badge.committers.top/panama_private/nzkdevsaider)
 
